@@ -1,4 +1,2 @@
 # Game-Engines
-this is my repository where I upload my project from unity 
-
-autor: Matrin Bernat
+this repository is for uploading projects from unity by Martin Bernat
